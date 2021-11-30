@@ -1,6 +1,6 @@
 {
-	"author": "Tochukwu Franklin Ene",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tochukwu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
